@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body></body>
-</html>
-<title>¯\_(ツ)_/¯</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title></title>
-<style type="text/css">body{
-                margin: .2em auto;
-                max-width:60em;
-                padding:0 .22em;
-                font:1.1em/1.4 sans-serif;
-        }
-        h1,h2,h3 {
-                line-height:1;
-        }
-        @media print{
-                body{
-                        max-width:none
-                }
-        }
-@media{
-  body {
-    background-color: dimgray;
-    color: gainsboro;
-  }
-<!--##Creates dark mode##-->
-<div id=”content-desktop”>
-
-<!--##Dropdown function for script##-->
-<!--##Content Type-->
-</style>
-<article>
-<header><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <h1><font color="darkgrey" size="6">&quot;Achievements&quot;</font></h1>
-</header>
-<!--###Actual Content##-->
-
-<p></p>
-
 <ul>
 	<li>Four years of A+ related Windows repair</li>
 	<li>Started working with GNU/Linux based systems in 2012, hopped around Ubuntu, then Manjaro, then back 
