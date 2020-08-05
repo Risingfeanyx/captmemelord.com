@@ -24,7 +24,7 @@ href="https://www.wiley.com/en-us/GNU/Linux+Essentials%2C+2nd+Edition-p-97811190
 GNU/Linux Essentials </a>, currently in the middle of the <a 
 href="comptia.html" target="_blank">Comptia+ 
 Security+ book</a></li>
-	<li>1 year (so far!) of working within a cPanel/LAMP stack environment at a snazzy web hosting 
+	<li>1 year (so far!) of working Tier 2 within a cPanel/LAMP stack environment at a snazzy web hosting 
 company. Involved in (read: gave feedback) on internal documentation, along with scrapping together some <a 
 href="https://captmemelord.com/functions">functions</a>  to 
 make my job alot easier.</li>
