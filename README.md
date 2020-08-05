@@ -1,4 +1,4 @@
-<h1><font color="darkgrey" size="6">&quot;Achievements&quot;</font></h1>
+<h1><font color="darkgrey" size="6">Achievements</font></h1>
 <ul>
 	<li>Four years of A+ related Windows repair</li>
 	<li>Started working with GNU/Linux based systems in 2012, hopped around Ubuntu, then Manjaro, then back 
