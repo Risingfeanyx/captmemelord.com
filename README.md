@@ -32,26 +32,6 @@ make my job alot easier.</li>
 	<li>Porting the <a href="https://www.studiotrophis.com/site/projects/thewhitechamber"target="_blank">The White Chamber</a> to <a href="https://github.com/Risingfeanyx/white_chamber_cli"target="_blank">Bash</a> 
 	<li>Created a bash/iOS  <a href="https://github.com/Risingfeanyx/Openstax-Browser"target="_blank">OpenStax Browser</a></li>
 	<p></p>
-
-	<p style="margin-left: .25px">
-	<h1><strong>Less is More</strong></h1>
-	Consider the following:
-
-	<p .25px="" style="">With the rise of Windows 10&#39;s rolling release cycle, machines in a 
-professional, or perhaps life-dependent environment are rendered useless, little more then a glorified 
-Etch-a-Sketch</p>
-	*nix documentation is so excessive, it&#39;s <a 
-href="https://en.wikipedia.org/wiki/Man_page#Command_usage/" target="blank">built</a> into the OS. Since any 
-server worth it&#39;s silicon runs GNU/Linux, even Azure servers, anything you perfect locally will apply 
-everywhere
-
-	<p .25px="" style="">Windows cripples its users, the only reason it exists are three: <a 
-href="https://www.protondb.com/" target="blank_">existing</a> support for AAA games, it comes preinstalled on 
-most machines and Enterprise contracts.</p>	
-For many companies, it&#39;s easier to pay for a windows license knowing it&#39;ll come with support, 
-and that&#39;s where many fail; poor management would rather give their people fish instead of teaching them how 
-to fish</li>
-</ul>
 <em>&quot;Sharing is good, and with digital technology, sharing is easy. I could have made money this way, and 
 perhaps amused myself writing code. But I knew that at the end of my career, I would look back on years of 
 building walls to divide people, and feel I had spent my life making the world a worse 
